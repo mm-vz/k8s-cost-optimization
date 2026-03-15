@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 echo "Listing unique container images by size (Largest First):"
 echo "--------------------------------------------------------"
